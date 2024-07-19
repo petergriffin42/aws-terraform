@@ -1,0 +1,5 @@
+secrets.sh
+.terraform*
+terraform.tfstate*
+*cert.pem
+*key.pem
